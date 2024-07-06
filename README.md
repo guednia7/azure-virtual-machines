@@ -8,7 +8,7 @@ In this tutorial, we will observe how to create a Virtual Machines within Azure 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines](https://www.youtube.com)
+- ### [YouTube: Azure Virtual Machines](https://youtu.be/FH-ZsudSb0w)
 
 <h2>Environments and Technologies Used</h2>
 
