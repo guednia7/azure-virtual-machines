@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1> How to Create Virtual Machines within Microsoft Azure</h1>
+<h1> How to Create a Virtual Machine within Microsoft Azure</h1>
 In this tutorial, we will observe how to create a Virtual Machines within Azure using operating systems windows 10. <br />
 
 
